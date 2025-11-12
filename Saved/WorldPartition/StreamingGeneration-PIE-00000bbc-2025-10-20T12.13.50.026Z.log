@@ -1,0 +1,99 @@
+[+] Containers:
+ |- [+] Container: /Game/WorkoutAnimations/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:087AD073460B0D63EE9E15B943B1627E BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7359A02_1075091452 Label:BP_Dumbbell8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1877.274 Y=328.000 Z=0.000), Max=(X=1963.845 Y=406.113 Z=181.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:103779D54CF9B3962E163F88EF94E8B6 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2039552272 Label:BP_Dumbbell4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1114.700 Y=326.000 Z=0.000), Max=(X=1202.141 Y=402.545 Z=180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:29F3956B4CD0E56C9FACC5857DBA5C95 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7449902_1393996035 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=240.000 Z=-58.000), Max=(X=800.000 Y=340.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3CA92B2C44B17C0F5036308D8FBADAAB BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7943C02_1320165905 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:67BF806D495C77A8F3A9DA8FCA8022F9 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7439902_2097812855 Label:BP_Dumbbell SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=548.090 Y=455.277 Z=0.000), Max=(X=639.167 Y=543.687 Z=183.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:69F92AE9434A97FE859C3D956C169383 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7359A02_1100721453 Label:BP_Dumbbell9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2057.120 Y=470.000 Z=0.000), Max=(X=2150.360 Y=586.941 Z=181.285) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7C2A90924FCF55DEE1E91D923EE56324 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7943C02_1320636906 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8768049B4C773AE2040028992A1CA017 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2017605271 Label:BP_Dumbbell3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=907.498 Y=467.000 Z=0.000), Max=(X=990.942 Y=539.835 Z=181.338) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:921B540949D5BAD074390BBC51A90E33 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7943C02_1314631903 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9F443CF344BE4E492B23408E1E848B9F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7943C02_1321242907 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A8D16F23481B73457E89B0BDFB013190 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7449902_1320373034 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=550.000 Y=380.000 Z=-59.000), Max=(X=650.000 Y=480.000 Z=41.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AAFE8AE242EB83B529E3D98543D9E442 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7449902_1277218033 Label:BP_Dumbbell2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=712.257 Y=315.276 Z=0.000), Max=(X=801.216 Y=403.690 Z=183.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AE4786B048A4D7A8D666D6B588C325ED BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2125104274 Label:BP_Dumbbell6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1501.820 Y=327.000 Z=0.000), Max=(X=1601.877 Y=397.000 Z=181.972) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BC17AD8C4299F7C1ED34B9860B459C97 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2108817273 Label:BP_Dumbbell5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1315.765 Y=468.000 Z=0.000), Max=(X=1404.221 Y=538.000 Z=182.283) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CAF7622949D50626BD708BBB67B76137 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2134170275 Label:BP_Dumbbell7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1684.804 Y=469.000 Z=0.000), Max=(X=1784.872 Y=539.000 Z=181.976) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CE30BAE247048329D67256AC652826ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1391768360 Label:SM_Dumbbell02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3776.317 Y=3779.454 Z=1.167), Max=(X=3823.406 Y=3800.857 Z=19.685) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:E1AFD41B48E071614DE59C80BFE993BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1394609361 Label:SM_Dumbbell03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3980.252 Y=3741.580 Z=1.228), Max=(X=4018.661 Y=3859.445 Z=38.541) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:E6D0D8F44A2737124B66E39A050DDC90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1388462359 Label:SM_Dumbbell01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3576.230 Y=3786.069 Z=5.394), Max=(X=3623.379 Y=3814.357 Z=33.487) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:ECBD91934F697E74708C9485B89596D1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7943C02_1319537904 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=6000.000 Y=6000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:9F443CF344BE4E492B23408E1E848B9F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7943C02_1321242907 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:29F3956B4CD0E56C9FACC5857DBA5C95 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7449902_1393996035 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=240.000 Z=-58.000), Max=(X=800.000 Y=340.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:AAFE8AE242EB83B529E3D98543D9E442 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7449902_1277218033 Label:BP_Dumbbell2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=712.257 Y=315.276 Z=0.000), Max=(X=801.216 Y=403.690 Z=183.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:A8D16F23481B73457E89B0BDFB013190 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7449902_1320373034 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=550.000 Y=380.000 Z=-59.000), Max=(X=650.000 Y=480.000 Z=41.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:E6D0D8F44A2737124B66E39A050DDC90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1388462359 Label:SM_Dumbbell01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3576.230 Y=3786.069 Z=5.394), Max=(X=3623.379 Y=3814.357 Z=33.487) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:921B540949D5BAD074390BBC51A90E33 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7943C02_1314631903 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:E1AFD41B48E071614DE59C80BFE993BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1394609361 Label:SM_Dumbbell03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3980.252 Y=3741.580 Z=1.228), Max=(X=4018.661 Y=3859.445 Z=38.541) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:ECBD91934F697E74708C9485B89596D1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7943C02_1319537904 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:67BF806D495C77A8F3A9DA8FCA8022F9 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7439902_2097812855 Label:BP_Dumbbell SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=548.090 Y=455.277 Z=0.000), Max=(X=639.167 Y=543.687 Z=183.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:7C2A90924FCF55DEE1E91D923EE56324 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7943C02_1320636906 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:3CA92B2C44B17C0F5036308D8FBADAAB BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7943C02_1320165905 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:CE30BAE247048329D67256AC652826ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B00CD162E1E7E03C02_1391768360 Label:SM_Dumbbell02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3776.317 Y=3779.454 Z=1.167), Max=(X=3823.406 Y=3800.857 Z=19.685) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=6000.000 Y=6000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:8768049B4C773AE2040028992A1CA017 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2017605271 Label:BP_Dumbbell3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=907.498 Y=467.000 Z=0.000), Max=(X=990.942 Y=539.835 Z=181.338) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:103779D54CF9B3962E163F88EF94E8B6 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2039552272 Label:BP_Dumbbell4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1114.700 Y=326.000 Z=0.000), Max=(X=1202.141 Y=402.545 Z=180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:BC17AD8C4299F7C1ED34B9860B459C97 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2108817273 Label:BP_Dumbbell5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1315.765 Y=468.000 Z=0.000), Max=(X=1404.221 Y=538.000 Z=182.283) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:AE4786B048A4D7A8D666D6B588C325ED BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2125104274 Label:BP_Dumbbell6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1501.820 Y=327.000 Z=0.000), Max=(X=1601.877 Y=397.000 Z=181.972) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:CAF7622949D50626BD708BBB67B76137 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7349A02_2134170275 Label:BP_Dumbbell7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1684.804 Y=469.000 Z=0.000), Max=(X=1784.872 Y=539.000 Z=181.976) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:087AD073460B0D63EE9E15B943B1627E BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7359A02_1075091452 Label:BP_Dumbbell8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1877.274 Y=328.000 Z=0.000), Max=(X=1963.845 Y=406.113 Z=181.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:69F92AE9434A97FE859C3D956C169383 BaseClass:/Game/WorkoutAnimations/Demo/Blueprints/Dumbbell/BP_Dumbbell.BP_Dumbbell_C NativeClass:/Script/Engine.Character Name:BP_Dumbbell_C_UAID_B00CD162E1E7359A02_1100721453 Label:BP_Dumbbell9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2057.120 Y=470.000 Z=0.000), Max=(X=2150.360 Y=586.941 Z=181.285) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/WorkoutAnimations/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 32 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
